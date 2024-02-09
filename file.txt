@@ -1,0 +1,7 @@
+A JavaScript Framework is a very important part of modern web development.
+There is no one framework for the codes, as every JavaScript framework serves a different purpose.
+The frameworks are easy to apply as every application or website has some common features.
+ It thus makes the task less laborious and time taking.
+There are several popular JavaScript frameworks available 
+including React.js, Angular, Vue.js, and Ember.js. 
+Each framework has its own strengths, features, and community support.
